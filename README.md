@@ -78,3 +78,5 @@ Se tiver dúvidas, sugestões ou precisar de orientação, sinta-se à vontade p
 
 ---
 Lembre-se de personalizar a descrição com o nome e detalhes específicos do seu projeto. Esta descrição simples fornece um guia para colaboradores em potencial sobre como contribuir efetivamente para o projeto no GitHub.
+
+[Meu linkedin](https://www.linkedin.com/in/vitor-augusto1/)
