@@ -2,24 +2,24 @@
 
 ## ETL no Databricks - Contratos do Governo Brasileiro em 2020
 
-**Descrição:**
+**Descrição:**<br/>
 Este projeto tem como objetivo extrair, transformar e carregar (ETL) os dados de contratos do governo brasileiro referentes ao ano de 2020. O governo brasileiro disponibiliza uma vasta quantidade de informações sobre contratos públicos, que são essenciais para promover a transparência, a prestação de contas e a análise de gastos públicos.
 
-**Objetivos**
+**Objetivos:** <br/>
 Extrair dados de contratos do governo brasileiro de fontes oficiais em um arquivo em csv.
 <br/>
 Realizar transformações complexas nos dados para limpeza, agregação e enriquecimento.
 <br/>
 Carregar os dados em um formato otimizado para melhor visualização dos dados  realizando a integração de Spark para  SQL.
 
-**Funcionalidades Principais:**
+**Funcionalidades Principais:** <br/>
 Extração de Dados: Carregamos um arquivo em csv para coletar os dados de contratos do governo a partir de fontes governamentais confiáveis e armazená-los no Databricks.
 <br/>
 Transformação de Dados: Utilizamos pandas para realizar transformações  nos dados, incluindo limpeza, agregação entre outros..
 <br/>
 Carregamento de Dados: Os dados transformados foram armazenados em SQL, pronto para análise no Databricks.
 
-**Tecnologias Utilizadas:**
+**Tecnologias Utilizadas:**<br/>
 Databricks
 <br/>
 Pandas
@@ -30,8 +30,9 @@ Apache Spark
 <br/>
 SQL
 
-**Requisitos**
+**Requisitos:** <br/>
 Acesso a uma conta Databricks.
+<br/>
 Bibliotecas especificadas no projeto (pandas)
 
 ### Como Colaborar
